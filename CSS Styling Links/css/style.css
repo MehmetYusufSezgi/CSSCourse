@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body{
+    padding: 10%;
+    font-size: 2rem;
+    font-family: 'Dancing Script', cursive;
+}
+a{
+    color: steelblue;
+}
+
+a:visited{
+    color: purple;
+}
+
+a:hover, a:focus{
+    opacity: 0.8;
+    background: gold;
+}
+
+a:active{
+    color: yellow;
+}
